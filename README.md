@@ -1,14 +1,14 @@
-### Hi there 👋
+# Hi there 👋
 
 I'm Eryk \
 AGH Student!
 
-# Moja strona: \
+### Moja strona:
 https://erykmikolajek.github.io/ErykMikolajek/
 
-# Projekty nad ktorymi pracuje: \
+### Projekty nad ktorymi pracuje:
 Hekate - bot discordowy pomagający stuedntom w codziennym życiu akadmickim
 
 
-# Post: \
+### Post:
 [Post na mojej stronie](https://erykmikolajek.github.io/ErykMikolajek/2021/11/26/zadanie-na-narzedzia)
