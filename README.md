@@ -11,4 +11,4 @@ Hekate - bot discordowy pomagający stuedntom w codziennym życiu akadmickim
 
 
 Post: \
-https://erykmikolajek.github.io/ErykMikolajek/2021/11/26/zadanie-na-narzedzia
+[Post na mojej stronie](https://erykmikolajek.github.io/ErykMikolajek/2021/11/26/zadanie-na-narzedzia)
