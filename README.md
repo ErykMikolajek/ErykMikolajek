@@ -3,5 +3,5 @@
 I'm Eryk \
 AGH Student!
 
-AGH Informatyka i Systemy Inteligentne
+Informatyka i Systemy Inteligentne \
 WEAIiIB
