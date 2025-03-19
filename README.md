@@ -1,3 +1,3 @@
 # Hi there 👋
 
-I'm Eryk, a Computer Science and Intelligent Systems student at AGH University of Science and Technology. Currently, I'm in my third year of studies.
+I'm Eryk, a graduate in Computer Science and Intelligent Systems from AGH University of Science and Technology. I'm currently pursuing my master's degree.
